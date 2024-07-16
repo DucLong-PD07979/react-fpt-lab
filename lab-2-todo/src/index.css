@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+        "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.task-list-container {
+    margin: 100px auto;
+    width: 700px;
+}
+
+.task-list,
+.task-list-action {
+    padding: 10px;
+    border: 1px solid #4420a8;
+}
+
+.task-list {
+    margin-bottom: 16px;
+}
+
+.task-list__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 6px 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-open {
+    background-color: #4420a8;
+    color: #fff;
+}
+
+.btn-close {
+    background-color: transparent;
+}
+
+.task-card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    background-color: #fafafa;
+    padding: 20px;
+}
+
+.task-card-box {
+    width: 100%;
+}
+
+.task-card-label {
+    margin-bottom: 6px;
+    font-size: 12px;
+    color: #555;
+}
+
+.task-card-name {
+    font-size: 16px;
+    color: #555;
+}
+
+.task-card-level {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.task-card-level.hight {
+    color: #ff0f0f;
+}
+
+.task-card-level.low {
+    color: #0fff2f;
+}
+
+.status {
+    padding: 4px 10px;
+    background-color: rgb(240, 240, 240);
+    font-size: 12px;
+    width: fit-content;
+    color: #555;
+    border-radius: 3px;
+}
+
+.btn-edit {
+    color: #2e13c8;
+    margin-right: 6px;
+    margin-left: 30px;
+}
+
+.btn-remove {
+    color: #ff0f0f;
+}
+
+.task-list__group {
+    display: flex;
+    flex-direction: column;
+}
+
+.task-list__group input {
+    outline: none;
+    border: 1px solid rgb(193, 193, 193) 5;
+    outline: none;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+.task-list__group label {
+    margin-bottom: 10px;
+}
+
+.buton-pirority {
+    margin-right: 6px;
+    background-color: transparent;
+    border: 1px solid currentColor;
+    border-radius: 2px;
+}
+
+.buton-pirority.hight {
+    color: #ff0f0f;
+}
+
+.buton-pirority.low {
+    color: #0fff2f;
+}
+
+.btn-add {
+    background-color: #3d3d3d;
+    color: #fff;
+    padding: 4px 16px;
+    margin-top: 12px;
+}

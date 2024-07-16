@@ -1,0 +1,27 @@
+[
+    {
+        "taskName": "Hoàn thành báo cáo",
+        "status": "todo",
+        "priority": "hight"
+    },
+    {
+        "taskName": "Kiểm tra email",
+        "status": "in process",
+        "priority": "low"
+    },
+    {
+        "taskName": "Họp với đồng nghiệp",
+        "status": "todo",
+        "priority": "Medium"
+    },
+    {
+        "taskName": "Xử lý yêu cầu khách hàng",
+        "status": "done",
+        "priority": "hight"
+    },
+    {
+        "taskName": "Tổ chức buổi họp nhóm",
+        "status": "in process",
+        "priority": "low"
+    }
+]
