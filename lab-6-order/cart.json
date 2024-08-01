@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "productId": 2,
+        "productName": "Pepperoni",
+        "quantity": 2,
+        "pricePerUnit": 10.99,
+        "totalPrice": 21.98,
+        "image": "https://example.com/images/pepperoni.jpg"
+    },
+    {
+        "id": 2,
+        "productId": 5,
+        "productName": "Hawaiian",
+        "quantity": 1,
+        "pricePerUnit": 11.99,
+        "totalPrice": 11.99,
+        "image": "https://example.com/images/hawaiian.jpg"
+    },
+    {
+        "id": 3,
+        "productId": 3,
+        "productName": "BBQ Chicken",
+        "quantity": 3,
+        "pricePerUnit": 12.99,
+        "totalPrice": 38.97,
+        "image": "https://example.com/images/bbq_chicken.jpg"
+    }
+]
