@@ -1,0 +1,52 @@
+[
+    {
+        "type": "beack",
+        "img": "https://media.macphun.com/img/uploads/customer/blog/1352/16843052446464755c3a0dd3.48322926.jpg?q=85&w=1680",
+        "name": "hình ảnh 1"
+    },
+    {
+        "type": "beack",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlIPe0zE5Kt06onEA7K9EGpLV0lDZo4e87zTUXzoGfUo68IY5yT4aB0RQ1IIy8iY3VenE&usqp=CAU",
+        "name": "hình ảnh 2"
+    },
+    {
+        "type": "beack",
+        "img": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?q=80&w=1796&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "hình ảnh 3"
+    },
+    {
+        "type": "beack",
+        "img": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "hình ảnh 4"
+    },
+    {
+        "type": "mountain",
+        "img": "https://plus.unsplash.com/premium_photo-1673240367277-e1d394465b56?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "a lake surrounded by trees"
+    },
+    {
+        "type": "mountain",
+        "img": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "snowy mountain"
+    },
+    {
+        "type": "mountain",
+        "img": "https://images.unsplash.com/photo-1486728297118-82a07bc48a28?q=80&w=1858&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "mountain covered with snow at daytime"
+    },
+    {
+        "type": "mountain",
+        "img": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "snow mountain under stars"
+    },
+    {
+        "type": "mountain",
+        "img": "https://images.unsplash.com/photo-1490682143684-14369e18dce8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "mountains and tree range during golden hour"
+    },
+     {
+         "type": "star",
+         "img": "https://images.unsplash.com/photo-1504333638930-c8787321eee0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+         "name": "cluster of star illustration"
+     }
+]
